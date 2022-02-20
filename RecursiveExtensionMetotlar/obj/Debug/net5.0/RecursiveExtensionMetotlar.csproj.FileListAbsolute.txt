@@ -1,0 +1,16 @@
+C:\Users\ozlem\source\repos\RecursiveExtensionMetotlar\RecursiveExtensionMetotlar\bin\Debug\net5.0\RecursiveExtensionMetotlar.exe
+C:\Users\ozlem\source\repos\RecursiveExtensionMetotlar\RecursiveExtensionMetotlar\bin\Debug\net5.0\RecursiveExtensionMetotlar.deps.json
+C:\Users\ozlem\source\repos\RecursiveExtensionMetotlar\RecursiveExtensionMetotlar\bin\Debug\net5.0\RecursiveExtensionMetotlar.runtimeconfig.json
+C:\Users\ozlem\source\repos\RecursiveExtensionMetotlar\RecursiveExtensionMetotlar\bin\Debug\net5.0\RecursiveExtensionMetotlar.runtimeconfig.dev.json
+C:\Users\ozlem\source\repos\RecursiveExtensionMetotlar\RecursiveExtensionMetotlar\bin\Debug\net5.0\RecursiveExtensionMetotlar.dll
+C:\Users\ozlem\source\repos\RecursiveExtensionMetotlar\RecursiveExtensionMetotlar\bin\Debug\net5.0\ref\RecursiveExtensionMetotlar.dll
+C:\Users\ozlem\source\repos\RecursiveExtensionMetotlar\RecursiveExtensionMetotlar\bin\Debug\net5.0\RecursiveExtensionMetotlar.pdb
+C:\Users\ozlem\source\repos\RecursiveExtensionMetotlar\RecursiveExtensionMetotlar\obj\Debug\net5.0\RecursiveExtensionMetotlar.csproj.AssemblyReference.cache
+C:\Users\ozlem\source\repos\RecursiveExtensionMetotlar\RecursiveExtensionMetotlar\obj\Debug\net5.0\RecursiveExtensionMetotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozlem\source\repos\RecursiveExtensionMetotlar\RecursiveExtensionMetotlar\obj\Debug\net5.0\RecursiveExtensionMetotlar.AssemblyInfoInputs.cache
+C:\Users\ozlem\source\repos\RecursiveExtensionMetotlar\RecursiveExtensionMetotlar\obj\Debug\net5.0\RecursiveExtensionMetotlar.AssemblyInfo.cs
+C:\Users\ozlem\source\repos\RecursiveExtensionMetotlar\RecursiveExtensionMetotlar\obj\Debug\net5.0\RecursiveExtensionMetotlar.csproj.CoreCompileInputs.cache
+C:\Users\ozlem\source\repos\RecursiveExtensionMetotlar\RecursiveExtensionMetotlar\obj\Debug\net5.0\RecursiveExtensionMetotlar.dll
+C:\Users\ozlem\source\repos\RecursiveExtensionMetotlar\RecursiveExtensionMetotlar\obj\Debug\net5.0\ref\RecursiveExtensionMetotlar.dll
+C:\Users\ozlem\source\repos\RecursiveExtensionMetotlar\RecursiveExtensionMetotlar\obj\Debug\net5.0\RecursiveExtensionMetotlar.pdb
+C:\Users\ozlem\source\repos\RecursiveExtensionMetotlar\RecursiveExtensionMetotlar\obj\Debug\net5.0\RecursiveExtensionMetotlar.genruntimeconfig.cache
